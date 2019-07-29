@@ -1,0 +1,13 @@
+{
+    "dir": "E:\\我的电脑收纳\\001 - Inbox - 中转站，先到碗里来\\实验测试心音",
+    "method": ["square", "homomorphic"],
+    "filter": "low",
+    "filter_params": [4, 150],
+    "down_fs": 1000,
+    "win_t": 3,
+    "slide_t": 1,
+    "bunch_size": 10,
+    "lpf_fc": 8,
+    "scope_t": [0.35, 1.5],
+    "height": 0
+}
